@@ -2,6 +2,7 @@ import { styles } from './App.css';
 import reactLogo from './assets/react.svg';
 import reduxLogo from './assets/redux_purple.svg';
 import vanillaExtractLogo from './assets/vanilla_extract.svg';
+import { NumberField } from './components/NumberField/NumberField';
 import { useAppDispatch, useAppSelector } from './hooks/useRTK';
 import { increment, selectCount } from './store/slices/counterSlice';
 
@@ -34,6 +35,9 @@ function App() {
       <h1 className={styles.headingVariants.h1}>Vite + React + Redux + Vanilla-Extract</h1>
       <div className={styles.card}>
         <button onClick={() => dispatch(increment())}>count is {count}</button>
+
+        <NumberField />
+
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
