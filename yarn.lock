@@ -800,10 +800,10 @@
   resolved "https://registry.yarnpkg.com/@vanilla-extract/private/-/private-1.0.3.tgz#7ec72bc2ff6fe51f9d650f962e8d1989b073690f"
   integrity sha512-17kVyLq3ePTKOkveHxXuIJZtGYs+cSoev7BlP+Lf4916qfDhk/HBjvlYDe8egrea7LNPHKwSZJK/bzZC+Q6AwQ==
 
-"@vanilla-extract/vite-plugin@^3.8.1":
-  version "3.8.1"
-  resolved "https://registry.yarnpkg.com/@vanilla-extract/vite-plugin/-/vite-plugin-3.8.1.tgz#e00bbd3bd960381e1836e1ffa2ab0ff0c8122534"
-  integrity sha512-Ruw0we95/ugcgidBVOh/jy/LsspsRz4WFHPPnydOgyPOu7h3Vo3BqDA4K0fQ+WmKKfyY8rEasJdbyFYqz8XxnQ==
+"@vanilla-extract/vite-plugin@^3.8.2":
+  version "3.8.2"
+  resolved "https://registry.yarnpkg.com/@vanilla-extract/vite-plugin/-/vite-plugin-3.8.2.tgz#ab70e48309e3d9de1d89a417060470bbd742eb83"
+  integrity sha512-i0vpuBUoh10Obl0hJr0dWQa6M3Udu/irm4tnsg1lUze8DXTbv3ctHmVu/wrRZHKw1EzzW/v+nLoJJRvisApspQ==
   dependencies:
     "@vanilla-extract/integration" "^6.0.2"
     outdent "^0.8.0"
