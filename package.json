@@ -27,7 +27,7 @@
     "@vanilla-extract/css": "^1.11.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-redux": "^8.0.5"
+    "react-redux": "^8.1.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.11",
