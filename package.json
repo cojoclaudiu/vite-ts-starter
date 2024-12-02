@@ -23,7 +23,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@reduxjs/toolkit": "^1.9.5",
+    "@reduxjs/toolkit": "^2.4.0",
     "@vanilla-extract/css": "^1.11.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
